@@ -46,6 +46,8 @@ del /f /s /q %userprofile%\AppData\Local\FiveM\FiveM.app\CitizenFX_SubProcess_ga
 del /f /s /q %userprofile%\AppData\Local\FiveM\FiveM.app\CitizenFX_SubProcess_game_2802_aslr.bin
 del /f /s /q %userprofile%\AppData\Local\FiveM\FiveM.app\CitizenFX_SubProcess_game_2944.bin
 del /f /s /q %userprofile%\AppData\Local\FiveM\FiveM.app\CitizenFX_SubProcess_game_2944_aslr.bin
+del /f /s /q %userprofile%\AppData\Local\FiveM\FiveM.app\CitizenFX_SubProcess_game_3095.bin
+del /f /s /q %userprofile%\AppData\Local\FiveM\FiveM.app\CitizenFX_SubProcess_game_3095_aslr.bin
 del /f /s /q %userprofile%\AppData\Local\FiveM\FiveM.app\CitizenFX_SubProcess_game_mtl.bin
 del /f /s /q %userprofile%\AppData\Local\FiveM\FiveM.app\CitizenFX_SubProcess_game_mtl_aslr.bin
 
